@@ -1,7 +1,7 @@
 # etude-Django
 
-[![Django CI](https://github.com/shin-sforzando/etude-Django/workflows/Django%20CI/badge.svg)](https://github.com/shin-sforzando/etude-Django/actions)
-![Bump Version](https://github.com/shin-sforzando/etude-Transformers/workflows/Bump%20Version/badge.svg)
+[![Django CI](https://github.com/shin-sforzando/etude-Django/workflows/Django%20CI/badge.svg)](https://github.com/shin-sforzando/etude-Django/actions?query=workflow:%22Django+CI%22)
+[![Bump Version](https://github.com/shin-sforzando/etude-Transformers/workflows/Bump%20Version/badge.svg)](https://github.com/shin-sforzando/etude-Django/actions?query=workflow:%22Bump+Version%22)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-yellow.svg)](https://unlicense.org)
 
